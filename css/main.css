@@ -27,21 +27,23 @@ body{
          a:nth-of-type(5) {font-size: 20px;color: red ;}     
     
         section{width: 100%;
-              display: inline-block;}
+              display: inline-block;
+            }
           div{width: 50%;
-            display: inline-block;}
+            display: inline-block;
+        }
              h1{
             width: 100%; 
             display: inline-block;
             font-size: 100px;
-            color: #343E47;
+            color: #9F9F9F;
             margin: 0;
             margin-bottom: 20px;          
              }
             p{
                 width: 100%; 
                 display: inline-block;
-                font-size: 15px;
+                font-size: 20px;
                 color: #595F75;
                 margin: 0;
                 margin-top: 20px;
