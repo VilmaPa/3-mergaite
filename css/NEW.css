@@ -16,8 +16,7 @@ body {
             a{
             }
             a:nth-last-of-type {
-               
-            }
+                 }
      main{
         display: inline-block;
         width: 1000px;
