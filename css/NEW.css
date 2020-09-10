@@ -24,7 +24,8 @@ body {
             text-decoration: none;
             font-size: 15px;
              }
-            a:last-of-type{
+            a:last-of-type
+            {
             display: inline-block;               
                 border: 3px solid #9F9F9F;
                 padding: 2px;
